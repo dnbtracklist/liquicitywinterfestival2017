@@ -8,6 +8,9 @@
 
 **URL:** https://www.facebook.com/events/1963432397246331/
 
+**VOD** (full 8 hours) https://www.youtube.com/watch?v=KRMMS4WqxbA
+
+
 ## Tracklists
 ### Mainstage
 | \#  | Time        | DJ                                                                     | ID'd  |
