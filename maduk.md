@@ -52,7 +52,7 @@
 | 39  | 00:##:## | Maduk - Stand by You                          |
 | 40  | 00:##:## |Tantrum Desire - Ricochet?                          |
 | 41  | 00:##:## | Pendulum - Witchcraft                         |
-| 42  | 00:##:## | Snoop Dogg - Smoke Weed Everyday (Remix)                          |
+| 42  | 00:##:## | Dr. Dre - The Next Episode ft. Snoop Dogg, Kurupt, Nate Dogg                          |
 | 43  | 00:##:## | Eminem - ??? (DNB Remix)                          |
 | 44  | 00:##:## | Danny Byrd - Make It Weighty (feat. Serocee)?                          |
 | 45  | 00:##:## | Artist - Track                          |
