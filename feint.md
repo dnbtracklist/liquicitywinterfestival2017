@@ -31,18 +31,21 @@
 | 18  | 00:19:15 | Cartoon - Whatever I do, Feint Bootleg                         |
 | 19  | 00:20:42 | Boxplot - Effloresce                          |
 | 20  | 00:21:47 | Feint ft Veela - Time bomb                         |
-| 21  | 00:##:## | Artist - Track                          |
-| 22  | 00:28:16 | DC Breaks - Gambino                       |
-| 23  | 00:29:09 | Netsky - Thunder                        |
-| 24  | 00:30:16 | Camo&Krooked - Watch it burn                        |
-| 25  | 00:##:## | Artist - Track                          |
-| 26  | 00:##:## | Artist - Track                         |
-| 27  | 00:##:## | Artist - Track                          |
-| 28  | 00:##:## | Artist - Track                        |
+| 21  | 00:22:50 | Netsky - Love Has Gone                         |
+| 22  | 00:24:15 | Artist - Track                          |
+| 23  | 00:25:20 | Artist - Track                          |
+| 24  | 00:26:40 | Artist - Track                          |
+| 25  | 00:28:16 | DC Breaks - Gambino                       |
+| 26  | 00:29:09 | Netsky - Thunder                        |
+| 27  | 00:30:16 | Camo&Krooked - Watch it burn                        |
+| 28  | 00:##:## | Artist - Track                          |
 | 29  | 00:##:## | Artist - Track                         |
-| 30  | 00:##:## | Artist - Track                         |
-| 31  | 00:##:## | Artist - Track                          |
+| 30  | 00:##:## | Artist - Track                          |
+| 31  | 00:##:## | Artist - Track                        |
 | 32  | 00:##:## | Artist - Track                         |
 | 33  | 00:##:## | Artist - Track                         |
 | 34  | 00:##:## | Artist - Track                          |
+| 35  | 00:##:## | Artist - Track                         |
+| 36  | 00:##:## | Artist - Track                         |
+| 37  | 00:##:## | Artist - Track                          |
 
