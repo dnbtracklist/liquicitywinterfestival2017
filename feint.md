@@ -38,11 +38,11 @@
 | 25  | 00:28:16 | DC Breaks - Gambino                       |
 | 26  | 00:29:09 | Netsky - Thunder                        |
 | 27  | 00:30:16 | Camo&Krooked - Watch it burn                        |
-| 28  | 00:##:## | Artist - Track                          |
-| 29  | 00:##:## | Artist - Track                         |
-| 30  | 00:##:## | Artist - Track                          |
-| 31  | 00:##:## | Artist - Track                        |
-| 32  | 00:##:## | Artist - Track                         |
+| 28  | 00:32:50 | Sub Focus - Turn it around                          |
+| 29  | 00:34:12 | Feint - Vagrant                         |
+| 30  | 00:37:35 | Boxplot - Tramontane                          |
+| 31  | 00:39:00 | Feint, Muzzy, Koven - Worth the lie                        |
+| 32  | 00:39:55 | Mota - Dominator                         |
 | 33  | 00:##:## | Artist - Track                         |
 | 34  | 00:##:## | Artist - Track                          |
 | 35  | 00:##:## | Artist - Track                         |
