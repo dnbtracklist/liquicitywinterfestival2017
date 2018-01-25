@@ -6,7 +6,7 @@
 
 **Date:** 29-12-2017 23:00-00:15
 
-**VOD:** *not publicly available yet*
+**VOD:** https://youtu.be/JSxCc2e3BEE
 
 ## Tracklist
 | \#  | Time     | Track                                                                                          |
