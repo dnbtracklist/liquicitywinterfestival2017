@@ -40,9 +40,9 @@
 | 27  | 00:57:33 | Upgrade & TI - Shot Down                         |
 | 28  | 01:00:29 | Andy C & Shimon - Quest (Bladerunner Remix)                         |
 | 29  | 01:01:45 | Pola & Bryson - Unsaid                        |
-| 30  | 00:04:07 | Hybrid Minds - Touch                         |
-| 31  | 00:05:55 | Pogo - No Worries (Hybrid Minds Remix)                         |
-| 32  | 00:07:15 | Netsky - Memory Lane                         |
-| 33  | 00:09:35 | Dlr & Ulterior Motive - Rungler                         |
-| 34  | 00:11:42 | Camo & Krooked - Come Together                         |
+| 30  | 01:04:07 | Hybrid Minds - Touch                         |
+| 31  | 01:05:55 | Pogo - No Worries (Hybrid Minds Remix)                         |
+| 32  | 01:07:15 | Netsky - Memory Lane                         |
+| 33  | 01:09:35 | Dlr & Ulterior Motive - Rungler                         |
+| 34  | 01:11:42 | Camo & Krooked - Come Together                         |
 
