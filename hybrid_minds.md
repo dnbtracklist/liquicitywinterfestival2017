@@ -35,13 +35,14 @@
 | 22  | 00:48:50 | Dimenson & Wilkinson - Rush                         |
 | 23  | 00:49:45 | Hybrid Minds - Pretend                       |
 | 24  | 00:52:10 | Feint - Take It In (ft. Koven) (Hybrid Minds Remix)                         |
-| 25  | 00:##:## | Artist - Track (LSB??)                        |
-| 26  | 00:##:## | Technimatic - Bristol (Break Remix)                         |
-| 27  | 00:##:## | Upgrade & TI - Shot Down                         |
-| 28  | 00:##:## | Pola & Bryson - Unsaid                        |
-| 29  | 00:##:## | Hybrid Minds - Touch                         |
-| 30  | 00:##:## | Pogo - No Worries (Hybrid Minds Remix)                         |
-| 31  | 00:##:## | Netsky - Memory Lane                         |
-| 32  | 00:##:## | Artist - Track                         |
-| 33  | 00:##:## | Camo & Krooked - Broken Pieces OR Come Together                         |
+| 25  | 00:53:45 | LSB - The Optimist                        |
+| 26  | 00:56:00 | Technimatic - Bristol (Break Remix)                         |
+| 27  | 00:57:33 | Upgrade & TI - Shot Down                         |
+| 28  | 01:00:29 | Andy C & Shimon - Quest (Bladerunner Remix)                         |
+| 29  | 01:01:45 | Pola & Bryson - Unsaid                        |
+| 30  | 00:04:07 | Hybrid Minds - Touch                         |
+| 31  | 00:05:55 | Pogo - No Worries (Hybrid Minds Remix)                         |
+| 32  | 00:07:15 | Netsky - Memory Lane                         |
+| 33  | 00:09:35 | Dlr & Ulterior Motive - Rungler                         |
+| 34  | 00:11:42 | Camo & Krooked - Come Together                         |
 
